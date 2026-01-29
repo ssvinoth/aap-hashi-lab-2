@@ -1,4 +1,4 @@
-# Please modify the instance_count, but PLEASE don't go higher than 2 VMs in this lab.
+# Please modify the instance_count, but PLEASE don't go higher than 2 VMs in this lab. Dummy Edit
 instance_count = 2
 #
 #
